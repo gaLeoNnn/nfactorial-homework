@@ -320,6 +320,9 @@ body {
   margin-top: 10px;
   margin-left: 67%;
 }
+.footer {
+  background-color: #ffffff;
+}
 
 @media (max-width: 1250px) {
   .first__inner {
